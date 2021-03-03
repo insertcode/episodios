@@ -1,16 +1,15 @@
-# Resumen de los episódios de Insert Code
+# Resumen de los episodios de Insert Code
 
-Vas a encontrar aqui las referencias que hacemos en los episódios de Insert Code
+Vas a encontrar aqui las referencias que hacemos en los episodios de Insert Code
 
-## Episódios
+## Episodios
 
-Ve la lista de episódios [aqui](episodios/)
+Ve la lista de episodios [aqui](episodios/)
 
-## Contrubuye
+## Contribuye
 
 [Porfa](CONTRIBUTING.md)
 
 ## Licencia
 
 Pase, por favor
-
